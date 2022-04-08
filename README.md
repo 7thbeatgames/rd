@@ -15,7 +15,7 @@ Please head to the [Issues](https://github.com/7thbeat/rd/issues) page to submit
 * [Verified Artists' List](https://7thbe.at/verified-artists/rd)
 * [Artist Permission Guide](https://7bg.notion.site/278aa02ea60c41549641e75c0b69ba34)
 * [User-Generated Content Rules](https://7bg.notion.site/73c8224a3876404799203faf7b1a818f)
-* [Rhythm Doctor Stea/Desktop Tech Problems FAQ](https://docs.google.com/document/d/1HPRpAuc_tiazp8LgexC8N4n2RVsbbsmn7PFUtpVsYzg/) (Will be implanted to wiki later)
+* [Rhythm Doctor Steam/Desktop Tech Problems FAQ](https://docs.google.com/document/d/1HPRpAuc_tiazp8LgexC8N4n2RVsbbsmn7PFUtpVsYzg/) (Will be implanted to wiki later)
 
 ## Contact
 
