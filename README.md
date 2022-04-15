@@ -1,4 +1,6 @@
-# 7th Beat Games Rhythm Doctor Issue Tracker
+# Rhythm Doctor Issue Tracker
+
+Rhythm Doctor is a rhythm game in a world where defibrillating patients' hearts in sync with their heartbeats has healing properties. Rhythm Doctor is designed to make you learn music and rhythm theory without even realising it.
 
 This tracker is our best effort to track the community's needs and requests.
 
@@ -11,11 +13,11 @@ Please head to the [Issues](https://github.com/7thbeat/rd/issues) page to submit
 
 ## Useful Links
 
-* [Rhythm Doctor Lounge](https://discord.com/invite/rhythmdr)
+* [7th Beat Games Web Page](https://7thbe.at)
+* [7th Beat Games Knowledge Base](https://7thbeat.notion.site/7BG-Knowledge-Base-d1f6dcc1c792418fa6a7008ebee8519f)
+* [Rhythm Doctor Technical FAQ](https://7thbeat.notion.site/RD-Technical-Problems-FAQ-fe2aec8dc5f24446ae079d135d7b81d6)
 * [Verified Artists' List](https://7thbe.at/verified-artists/rd)
-* [Artist Permission Guide](https://7bg.notion.site/278aa02ea60c41549641e75c0b69ba34)
-* [User-Generated Content Rules](https://7bg.notion.site/73c8224a3876404799203faf7b1a818f)
-* [Rhythm Doctor Steam/Desktop Tech Problems FAQ](https://docs.google.com/document/d/1HPRpAuc_tiazp8LgexC8N4n2RVsbbsmn7PFUtpVsYzg/) (Will be implanted to wiki later)
+* [Rhythm Doctor Lounge (Fan Discord)](https://discord.com/invite/rhythmdr)
 
 ## Contact
 
@@ -25,7 +27,8 @@ While most of our developers are staying on Discord 24/7, you can use the email 
 * `auth (at) 7thbe.at`: Verified Artists, Steam Workshop, Any Korean Inquiries.
 
 For confidential, please use this PGP key.
-```
+
+```text
 auth <auth (at) 7thbe.at>
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
