@@ -5,9 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Hello! Thanks for submit the bug report!
+        ## Before you proceed
         
-        Before you proceed, please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
+        please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
         
         Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one. If your issue isn't submitted before, you are good to write a new one.
   - type: checkboxes
@@ -16,6 +16,7 @@ body:
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
         - label: I searched the existing issues.
+          required: true
   - type: textarea
     id: summary
     attributes:
@@ -52,7 +53,7 @@ body:
     attributes:
       label: Device Info
       description: What device are you using?
-      placeholder: e.g. iPhone 13 / Samsung Galaxy Note 22 / iPad Air 5th Generation / etc.
+      placeholder: e.g. iPhone 13 / Samsung Galaxy Note 22 / etc.
     validations:
       required: false
   - type: textarea
@@ -64,7 +65,7 @@ body:
         1. Step 1
         2. Step 2
         3. Step 3
-        4. See error
+        4. See Error
     validations:
       required: true
   - type: textarea
@@ -92,8 +93,9 @@ body:
       label: Anything else?
       description: |
         Please give us more context about the issue you encountered, such as screenshots, videos, and log files.
-
-        You can attach images or log files by clicking this area to highlight it and then dragging files in. You may open the log path by pressing [Ctrl + Shift + L] on the game screen.
+        You can attach images or log files by clicking this area to highlight it and then dragging files in. 
+        
+        You may open the log path by pressing [Ctrl + Shift + L] on the game screen.
   - type: textarea
     id: notes
     attributes:
