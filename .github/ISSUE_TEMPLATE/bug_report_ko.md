@@ -1,9 +1,7 @@
 ---
 name: 버그 보고
 about: 무언가가 이상한가요?
-title: ""
 labels: 'Bug, Meta: Needs triage, Lang: Korean'
-assignees: ''
 
 ---
 
@@ -21,7 +19,7 @@ assignees: ''
 
 ### 자주 묻는 질문 확인
 
-[자주 묻는 질문](https://7thbeat.notion.site/ADOFAI-8dc4ef47b27d465cb90c792a51ccb543) 페이지에 답변이 이미 있을 수도 있습니다.
+[자주 묻는 질문](https://7thbeat.notion.site/RD-Technical-Problems-FAQ-fe2aec8dc5f24446ae079d135d7b81d6) 페이지에 답변이 이미 있을 수도 있습니다.
 
 ---
 
