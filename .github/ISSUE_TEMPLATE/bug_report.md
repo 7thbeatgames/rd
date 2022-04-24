@@ -14,11 +14,11 @@ body:
         Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one. If your issue isn't submitted before, you are good to write a new one.
   - type: checkboxes
     attributes:
-     label: Is there an existing issue for this?
-     description: Please search to see if an issue already exists for the bug you encountered.
-     options:
-     - label: I have searched the existing issues
-      required: true
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+        label: I have searched the existing issues
+        required: true
   - type: textarea
     id: summary
     attributes:
@@ -95,9 +95,9 @@ body:
     attributes:
       label: Anything else?
       description: |
-      Please give us more context about the issue you encountered, such as screenshots, videos, and log files.
+        Please give us more context about the issue you encountered, such as screenshots, videos, and log files.
 
-      You can attach images or log files by clicking this area to highlight it and then dragging files in. You may open the log path by pressing [Ctrl + Shift + L] on the game screen.
+        You can attach images or log files by clicking this area to highlight it and then dragging files in. You may open the log path by pressing [Ctrl + Shift + L] on the game screen.
   - type: textarea
     id: notes
     attributes:
