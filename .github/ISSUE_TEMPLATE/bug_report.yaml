@@ -5,11 +5,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Before you proceed
+        ### Before You Proceed
         
-        please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
+        Please search in [open issues](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen) to see if your issue or request has already been filed.
         
         Your issue will be closed if maintainers find it is a duplicate. Please upvote previously reported issues, instead of creating a new one.
+
+        ### See Our FAQ
+
+        There might be answers you seek in our [Technical Problems FAQ](https://7thbeat.notion.site/RD-Technical-Problems-FAQ-fe2aec8dc5f24446ae079d135d7b81d6).
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
