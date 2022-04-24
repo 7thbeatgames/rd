@@ -19,7 +19,7 @@ body:
       label: Is there an existing issue for this?
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
-        - label: I searched the existing issues.
+        - label: I searched for the issues, and made sure there were no duplicates.
           required: true
   - type: textarea
     id: summary
@@ -100,8 +100,3 @@ body:
         You can attach images or log files by clicking this area to highlight it and then dragging files in. 
         
         You may open the log path by pressing [Ctrl + Shift + L] on the game screen.
-  - type: textarea
-    id: notes
-    attributes:
-      label: Notes
-      description: Please write any other comments about this bug.
