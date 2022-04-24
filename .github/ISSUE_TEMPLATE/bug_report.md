@@ -1,4 +1,3 @@
----
 name: Bug report
 about: Something isn't working as intended?
 title: ""
@@ -107,13 +106,3 @@ body:
       label: Notes
       description: Please write any other comments about this bug.
       render: shell
-
----
-
-### Screenshot / Videos / Crash Report
-
-Optional: Attach an image or short video, or a ZIP file
-
-### Notes
-
-Add any other information about the problem here.
