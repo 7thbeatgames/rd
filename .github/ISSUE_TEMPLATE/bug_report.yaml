@@ -1,8 +1,6 @@
 name: Bug report
-about: Something isn't working as intended?
-title: ""
-labels: 'Bug, Meta: Needs triage'
-assignees: ''
+description: Something isn't working as intended?
+labels: [Bug, "Meta: Needs triage"]
 body:
   - type: markdown
     attributes:
@@ -17,8 +15,7 @@ body:
       label: Is there an existing issue for this?
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
-        label: I have searched the existing issues
-        required: true
+        - label: I searched the existing issues.
   - type: textarea
     id: summary
     attributes:
@@ -39,7 +36,7 @@ body:
     attributes:
       label: Operating System (OS)
       description: What OS are you using?
-      placeholer: e.g. Windows 11 / macOS Monterey (M1/Intel) / iOS / Android / etc.
+      placeholder: e.g. Windows 11 / macOS Monterey (M1/Intel) / iOS / Android / etc.
     validations:
       required: true
   - type: input
@@ -47,7 +44,7 @@ body:
     attributes:
       label: Platform
       description: What platform are you using?
-      placeholer: e.g. Steam / itch.io / App Store / Play Store / etc.
+      placeholder: e.g. Steam / itch.io / App Store / Play Store / etc.
     validations:
       required: true
   - type: input
@@ -55,7 +52,7 @@ body:
     attributes:
       label: Device Info
       description: What device are you using?
-      placeholer: e.g. iPhone 13 / Samsung Galaxy Note 22 / iPad Air 5th Generation / etc.
+      placeholder: e.g. iPhone 13 / Samsung Galaxy Note 22 / iPad Air 5th Generation / etc.
     validations:
       required: false
   - type: textarea
@@ -63,7 +60,7 @@ body:
     attributes:
       label: Steps to Reproduce
       description: Please describe how to reproduce this bug.
-      placeholer: |
+      placeholder: |
         1. Step 1
         2. Step 2
         3. Step 3
@@ -91,7 +88,6 @@ body:
       description: How often the bug happens when you try to reproduce it?
       placeholder: e.g. 100%, 33%, rarely, etc.
   - type: textarea
-    id: 
     attributes:
       label: Anything else?
       description: |
