@@ -7,7 +7,7 @@ labels: 'Bug, Meta: Needs triage, Lang: Korean'
 
 ### 검색 먼저
 
-먼저 [열린 이슈](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen)를 검색하여 이미 다른 사람이 관련 이슈를 제출했는지 확인해보세요.
+먼저 [열린 이슈](https://github.com/7thbeatgames/rd/issues?q=is%3Aissue+is%3Aopen)를 검색하여 이미 다른 사람이 관련 이슈를 제출했는지 확인해보세요.
 
 해당 이슈가 중복되었다면 관리자는 제출한 이슈를 종료 처리하게 됩니다. 중복된 이슈를 새로 만드는 대신, 다른 사람이 제출한 이슈에 👍 이모트를 달아주세요.
 

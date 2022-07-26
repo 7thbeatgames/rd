@@ -8,7 +8,7 @@ assignees: ''
 
 ### 검색 먼저
 
-먼저 [열린 이슈](https://github.com/7thbeatgames/adofai/issues?q=is%3Aissue+is%3Aopen)를 검색하여 이미 다른 사람이 관련 이슈를 제출했는지 확인해보세요.
+먼저 [열린 이슈](https://github.com/7thbeatgames/rd/issues?q=is%3Aissue+is%3Aopen)를 검색하여 이미 다른 사람이 관련 이슈를 제출했는지 확인해보세요.
 
 해당 이슈가 중복되었다면 관리자는 제출한 이슈를 종료 처리하게 됩니다. 중복된 이슈를 새로 만드는 대신, 다른 사람이 제출한 이슈에 👍 이모트를 달아주세요.
 
@@ -21,6 +21,8 @@ assignees: ''
 ### 자주 묻는 질문 확인
 
 [자주 묻는 질문](https://7thbeat.notion.site/ADOFAI-8dc4ef47b27d465cb90c792a51ccb543) 페이지에 답변이 이미 있을 수도 있습니다.
+
+(해당 문서는 ADOFAI용이나, 리듬 닥터 또한 같이 해당하는 부분이 많기에 이를 전제하였습니다.)
 
 ### 약관
 
