@@ -17,7 +17,7 @@ Please head to the [Issues](https://github.com/7thbeat/rd/issues) page to submit
 * [7th Beat Games Knowledge Base](https://7thbeat.notion.site/7BG-Knowledge-Base-d1f6dcc1c792418fa6a7008ebee8519f)
 * [Rhythm Doctor Technical FAQ](https://7thbeat.notion.site/RD-Technical-Problems-FAQ-fe2aec8dc5f24446ae079d135d7b81d6)
 * [Verified Artists' List](https://7thbe.at/verified-artists/rd)
-* [Rhythm Doctor Lounge (Fan Discord)](https://discord.com/invite/rhythmdr)
+* [7th Beat Games Cafe (Discord)](https://7thbe.at/discord)
 
 ## Contact
 
